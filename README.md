@@ -40,7 +40,7 @@ https://creaturecoding.com/repo/
 https://jb365.github.io/
 https://brianleek.me/repo/
 https://samgisaninja.github.io/
-https://nickilas.yourepo.com/
+https://nickilas.yourepo.com/ 
 https://ib-soft.net/cydia/
 http://beta.sparkservers.co.uk/
 http://repo.biteyourapple.net/
