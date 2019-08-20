@@ -44,64 +44,64 @@ https://nickilas.yourepo.com/
 https://ib-soft.net/cydia/
 http://beta.sparkservers.co.uk/
 http://repo.biteyourapple.net/
-deb http://limneos.net/repo/ ./
-deb http://repo.nepeta.me/ ./
-deb http://cydia.ppsspp.org/ ./
-deb https://repo.packix.com/ ./
-deb https://beta.unlimapps.com/ ./
-deb http://tigisoftware.com/cydia/ ./
-deb https://tdmd.github.io/ ./
-deb https://julioverne.github.io/ ./
-deb https://creaturesurvive.github.io/ ./
-deb https://jakeashacks.ga/cydia/ ./
-deb http://www.jonlu.ca/repo/ ./
-deb https://restiveconch.yourepo.com/ ./
-deb https://daddykool.yourepo.com/ ./
-deb https://rko1195.com/cydia/ ./
-deb https://repo.pixelomer.com/ ./
-deb https://gebeto.github.io/repo/ ./
-deb https://mpg13.github.io/repo/ ./
-deb https://parrotgeek.com/repo/ ./
-deb https://ocean.webjungle.ch/ ./
-deb https://dpkg9510.github.io/ ./
-deb http://cydia.angelXwind.net/webstack/ ./
-deb https://cydia.akemi.ai/ ./
-deb http://c1d3r.com/repo/ ./
-deb https://gh0st5ive.yourepo.com/ ./
-deb http://cydia.iphonecake.com/ ./
-deb http://arcetera.github.com/ ./
-deb https://jakeai.github.io/ ./
-deb http://apt.dba-technologies.com/beta/ ./
-deb http://coolstar.org/publicrepo/ ./
-deb http://apt.steverolfe.com/ ./
-deb http://cydia.clezz.com/ ./
-deb http://cydia.evilpengu.in/ ./
-deb http://getdelta.co/ ./
-deb https://cydiageek.yourepo.com/ ./
-deb http://cydia.hiraku.tw/ ./
-deb http://cydia.ichitaso.com/ ./
-deb http://repo.iphonews.ro/ ./
-deb https://justgetflux.com/cydia/ ./
-deb http://hitoriblog.com/apt/ ./
-deb http://repo.nesolabs.de/ ./
-deb https://n-i-n-0.github.io/repo/ ./
-deb http://noeliel.com/repo/ ./
-deb http://pw5a29.github.io/ ./
-deb http://cydia.rob311.com/repo/ ./
-deb http://spicat.github.io/ ./
-deb http://mirrors.kodi.tv/apt/ios/ ./
-deb http://cydia.r333d.com/ ./
-deb http://nix.howett.net/theos/ ./
-deb http://repo.thireus.com/ ./
-deb http://repo.tylercasson.com/ ./
-deb http://typ0s2d10.appspot.com/repo/ ./
-deb http://repo.winneon.moe/ ./
-deb http://Wynd07.appspot.com/r7/ ./
-deb https://dgh0st.github.io/ ./
-deb http://cydia.kiiimo.org/ ./
-deb https://apptapp.me/repo/ ./
-deb https://repo.lonestarx.net/ ./
-deb https://leftyfl1p.github.io/ ./
+http://limneos.net/repo/
+http://repo.nepeta.me/
+http://cydia.ppsspp.org/
+https://repo.packix.com/
+https://beta.unlimapps.com/
+http://tigisoftware.com/cydia/
+https://tdmd.github.io/
+https://julioverne.github.io/
+https://creaturesurvive.github.io/
+https://jakeashacks.ga/cydia/
+http://www.jonlu.ca/repo/
+https://restiveconch.yourepo.com/
+https://daddykool.yourepo.com/
+https://rko1195.com/cydia/
+https://repo.pixelomer.com/
+https://gebeto.github.io/repo/
+https://mpg13.github.io/repo/
+https://parrotgeek.com/repo/
+https://ocean.webjungle.ch/
+https://dpkg9510.github.io/
+http://cydia.angelXwind.net/webstack/
+https://cydia.akemi.ai/
+http://c1d3r.com/repo/
+https://gh0st5ive.yourepo.com/
+http://cydia.iphonecake.com/
+http://arcetera.github.com/
+https://jakeai.github.io/
+http://apt.dba-technologies.com/beta/
+http://coolstar.org/publicrepo/
+http://apt.steverolfe.com/
+http://cydia.clezz.com/
+http://cydia.evilpengu.in/
+http://getdelta.co/
+https://cydiageek.yourepo.com/
+http://cydia.hiraku.tw/
+http://cydia.ichitaso.com/
+http://repo.iphonews.ro/
+https://justgetflux.com/cydia/
+http://hitoriblog.com/apt/
+http://repo.nesolabs.de/
+https://n-i-n-0.github.io/repo/
+http://noeliel.com/repo/
+http://pw5a29.github.io/
+http://cydia.rob311.com/repo/
+http://spicat.github.io/
+http://mirrors.kodi.tv/apt/ios/
+http://cydia.r333d.com/
+http://nix.howett.net/theos/
+http://repo.thireus.com/
+http://repo.tylercasson.com/
+http://typ0s2d10.appspot.com/repo/
+http://repo.winneon.moe/
+http://Wynd07.appspot.com/r7/
+https://dgh0st.github.io/
+http://cydia.kiiimo.org/
+https://apptapp.me/repo/
+https://repo.lonestarx.net/
+https://leftyfl1p.github.io/
 deb https://mcapollo.github.io/Public/ ./
 deb http://ca13ra1.github.io/repo/ ./
 deb http://toxicappl3inc.github.io/repo/ ./
