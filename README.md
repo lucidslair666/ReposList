@@ -10,7 +10,7 @@ http://Auxilium.ml/
 https://telaaedifex.com/repo/
 https://beta.cpdigitaldarkroom.com/
 http://www.alonemonkey.com/cydiarepo/
-https://repo.nullpixel.uk/
+https://repo.nullpixel.uk/ 
 https://sparkdev.me/
 https://idevicehacked.com/
 http://cokepokes.github.io/
@@ -102,24 +102,24 @@ http://cydia.kiiimo.org/
 https://apptapp.me/repo/
 https://repo.lonestarx.net/
 https://leftyfl1p.github.io/
-deb https://mcapollo.github.io/Public/ ./
-deb http://ca13ra1.github.io/repo/ ./
-deb http://toxicappl3inc.github.io/repo/ ./
-deb https://festival.ml/repo/ ./
-deb http://apt.youyuanapp.com/ ./
-deb http://repo.bytafont.com/latest/ ./
-deb http://mirrors.xbmc.org/apt/ios/ ./
-deb http://cydia.zodttd.com/repo/cydia/ stable main
-deb http://cydia.getpopcorntime.is/ ./
-deb http://nexusrepo.kro.kr/ ./
-deb https://repo.d4ni.nl/ ./
-deb https://fncxpro.github.io/ ./
-deb https://ryleyangus.com/repo/ ./
-deb https://williammuff.github.io/repo/ ./
-deb https://shade-zepheri.github.io/ ./
-deb https://leroy-b.github.io/home/repo/ ./
-deb https://repo.midkin.net/ ./
-deb http://dev4i.yourepo.com/ ./
-deb http://deb.danstaface.net/ ./
-deb http://subdiox.com/cydia/ ./
+https://mcapollo.github.io/Public/
+http://ca13ra1.github.io/repo/
+http://toxicappl3inc.github.io/repo/
+https://festival.ml/repo/
+http://apt.youyuanapp.com/
+http://repo.bytafont.com/latest/
+http://mirrors.xbmc.org/apt/ios/
+http://cydia.zodttd.com/repo/cydia/ stable main
+http://cydia.getpopcorntime.is/
+http://nexusrepo.kro.kr/
+https://repo.d4ni.nl/
+https://fncxpro.github.io/
+https://ryleyangus.com/repo/
+https://williammuff.github.io/repo/
+https://shade-zepheri.github.io/
+https://leroy-b.github.io/home/repo/
+https://repo.midkin.net/
+http://dev4i.yourepo.com/
+http://deb.danstaface.net/
+http://subdiox.com/cydia/
 
