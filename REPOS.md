@@ -109,7 +109,7 @@ https://festival.ml/repo/
 http://apt.youyuanapp.com/
 http://repo.bytafont.com/latest/
 http://mirrors.xbmc.org/apt/ios/
-http://cydia.zodttd.com/repo/cydia/ stable main
+http://cydia.zodttd.com/repo/cydia/
 http://cydia.getpopcorntime.is/
 http://nexusrepo.kro.kr/
 https://repo.d4ni.nl/
